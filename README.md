@@ -28,6 +28,9 @@ Web Browsers & Web Drivers: Web Browsers: Safari, Chrome, Firefox, IE, Opera, Do
 
 IDE: PyCharm, Visual Studio Terminal(MacOS) & Command Prompt(Windows)
 
+# Cloning the Repo from Githbub
+https://github.com/divanshu-netizen/TrivagoDiscoverDemo.git
+
 # Steps to run the code
 
 1.Go to the path where above repo has been cloned, open the repo in an IDE
