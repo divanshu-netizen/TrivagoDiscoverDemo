@@ -1,4 +1,4 @@
-# TrivagoDiscoverDemo
+# Trivago Discover Feature Demo
 Automation Suite for testing Trivago Discover Feature Demo
 
 # Task 3 – Test Case Automation
