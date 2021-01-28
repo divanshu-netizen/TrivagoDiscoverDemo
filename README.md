@@ -30,10 +30,10 @@ IDE: PyCharm, Visual Studio Terminal(MacOS) & Command Prompt(Windows)
 
 # Steps to run the code
 
-Go to the path where above repo has been cloned, open the repo in an IDE
+1.Go to the path where above repo has been cloned, open the repo in an IDE
 
-Open terminal in IDE and run below command
+2. Open terminal in IDE and run below command
 
 "robot -d Results/ Tests/Trivago_Discover.robot"
 
-Results folder will hold the Report.html file which you can open in a browser of your choice, log file is also hosted here.
+3. Results folder will hold the Report.html file which you can open in a browser of your choice, log file is also hosted here.
