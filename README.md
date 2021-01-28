@@ -14,7 +14,7 @@ Resources - It has scripts for Setup & Teardwon(Opening & closing browsers), it 
 Results - Report & Log files in html(can be opened in a browser), output file in XML format.
 
 
-#Prerequisites
+# Prerequisites
 
 In order to run this Test Automation suite one should have following libraries, softwares, applications installed:
 
@@ -28,11 +28,12 @@ Web Browsers & Web Drivers: Web Browsers: Safari, Chrome, Firefox, IE, Opera, Do
 
 IDE: PyCharm, Visual Studio Terminal(MacOS) & Command Prompt(Windows)
 
-#Steps to run the code
+# Steps to run the code
 
-Go to the path where above repo has been cloned.
+Go to the path where above repo has been cloned, open the repo in an IDE
 
-From the Terminal Window run below command
+Open terminal in IDE and run below command
+
 "robot -d Results/ Tests/Trivago_Discover.robot"
 
 Results folder will hold the Report.html file which you can open in a browser of your choice, log file is also hosted here.
