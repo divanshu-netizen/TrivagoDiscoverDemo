@@ -33,7 +33,7 @@ IMPORTANT NOTE: I've used Safari to run this script. Selenium automation testing
 One needs to change variable ${browser} to their choice of browser (Chrome, Firefox, IE) in TrivagoDiscoverDemo/Resources/Common.robot file
 # ${browser}  safari
 
-If you want to run Script on Chrome & Firefox browser you need to download WebDrivers Chromedrive & Geckodriver and copy these drivers either in the code base or in the System Path Variables.
+If you want to run Script on Chrome & Firefox browser you need to download WebDrivers Chromedrive & Geckodriver and copy these drivers either in the code path or in the System Path Variables.
 
 Windows users also need to have IE WebDriver installed
 
